@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Master Yoda.
+- 👋 Hi, I’m Vitaliy Lancetov.
 - 👀 I’m interested in developing games.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me - master.yoda.khv@gmail.com
