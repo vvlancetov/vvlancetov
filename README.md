@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vitaliy Lancetov.
-- 👀 I’m interested in developing games.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m Vitaliy.
+- 👀 I’m interested in studing CPU architecture.
+- 🌱 I’m currently learning C++ from time to time.
 - 📫 How to reach me - master.yoda.khv@gmail.com
 
 <!---
